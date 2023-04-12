@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Code Challenges",
-  base: '/blog/code-challenges/',
+  base: '/blog-code-challenges/',
   description: "A blog for code challenges and how I solved them",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

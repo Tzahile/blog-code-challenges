@@ -8,15 +8,16 @@ hero:
   tagline: solutions are in TS
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Challenges
+      link: /challenges
+    # - theme: alt
+    #   text: API Examples
+    #   link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Latest easy-level challenge
+    details: easy level challenges are good for beginners
+    link: /challenges
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C

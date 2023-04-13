@@ -1,0 +1,8 @@
+Google Kickstart!
+
+[easy](easy/)
+
+[medium](medium/)
+
+[hard](hard/)
+
